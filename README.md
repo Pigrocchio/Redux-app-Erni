@@ -1,3 +1,6 @@
+
+This repo is the result of what was learned at the Meetup held on 15.01.2020 and organized by the ERNI Frontend Community Madrid, whose objective was to create a simple application in REACT and implement the REDUX library step by step.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
